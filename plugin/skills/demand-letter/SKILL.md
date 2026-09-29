@@ -2,11 +2,14 @@
 name: demand-letter
 description: Draft a first-pass demand letter from case facts and your firm's template, or a plain-English client status-update email. Reads an attached case folder (facts, correspondence, your firm's demand-letter template) and drafts from it — never invents facts, never suggests a demand amount or liability position. Attorney reviews, sets the number, and sends manually.
 argument-hint: "[optional: 'demand letter' or 'status update' — the skill asks if you don't specify]"
+last_verified: 2026-09-29
+freshness_window: 12 months
+freshness_category: stylistic
 ---
 
 # /demand-letter — Demand Letter & Client Correspondence Drafter
 
-> ⚠️ ASSISTED DRAFT — ATTORNEY REVIEW REQUIRED
+> ⚠️ AI-ASSISTED DRAFT — ATTORNEY REVIEW REQUIRED
 > Drafted from the case facts and template you provided. Does not verify accuracy, completeness, or legal sufficiency, and does not set a demand amount or assess liability. You are the author of record — review, revise, and send it yourself.
 
 This skill drafts one of two things from an attached case folder:
@@ -85,7 +88,7 @@ In both cases: the drafted body is the letter or email itself — nothing else. 
 Present the compliance header in the chat (not in the draft), then the draft in its own copy-ready block containing only the letter or email body, then the compliance footer and review prompt in the chat.
 
 ```
-⚠️ ASSISTED DRAFT — ATTORNEY REVIEW REQUIRED
+⚠️ AI-ASSISTED DRAFT — ATTORNEY REVIEW REQUIRED
 Drafted from the case facts and template you provided. Verify every fact, set the demand amount yourself, and review for legal sufficiency before sending. Not legal advice.
 ```
 

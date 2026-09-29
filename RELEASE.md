@@ -1,6 +1,6 @@
-# Demand Letter & Client Correspondence Drafter v1.0.0
+# Demand Letter & Client Correspondence Drafter v1.0.1
 
-Initial release.
+Adds Legal Builder Hub freshness frontmatter (`freshness_category: stylistic`) and fixes a compliance-header typo ("ASSISTED DRAFT" → "AI-ASSISTED DRAFT"). No functional changes.
 
 ## What's included
 
