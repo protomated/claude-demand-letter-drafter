@@ -4,6 +4,8 @@ A Claude Desktop / Cowork plugin that drafts a first-pass demand letter from you
 
 **Distributed by [Protomated](https://protomated.com) as a free download.**
 
+**Works with:** Claude Desktop and ChatGPT Desktop.
+
 ---
 
 ## ⚠️ Required: Read This Before You Install
@@ -53,6 +55,10 @@ If you skip this, the skill will ask you to attach a folder or paste the facts d
 ### Step 3 — Verify
 
 Open a new Claude Desktop chat, attach your folder, and type `/skills`. You should see `/demand-letter` listed. Run `/demand-letter` to start.
+
+### Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop. Install the plugin the same way (Settings → Apps & Connectors → Plugins → Upload plugin archive), then attach your case folder directly to the conversation — ChatGPT doesn't have a persistent Filesystem connector, so attach the files each time instead of connecting a folder once.
 
 ---
 

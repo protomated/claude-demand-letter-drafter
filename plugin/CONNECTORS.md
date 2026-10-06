@@ -18,3 +18,7 @@ The plugin drafts from those files and presents the result for your review. You 
 The plugin processes the files in your attached folder within your Claude Desktop / Cowork conversation under your Claude plan's data handling terms. No case facts, client names, or drafts are transmitted to Protomated or any third party.
 
 For confidential matter information: confirm you are on Claude for Work, Claude Team, or Claude Enterprise before attaching a folder with client details. See the main README for plan requirements.
+
+## Using this in ChatGPT Desktop
+
+This skill also works in ChatGPT Desktop. There's no Filesystem connector to attach there — instead, attach your case facts and template directly to the conversation before running the skill.

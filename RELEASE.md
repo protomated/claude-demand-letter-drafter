@@ -1,6 +1,6 @@
-# Demand Letter & Client Correspondence Drafter v1.0.1
+# Demand Letter & Client Correspondence Drafter
 
-Adds Legal Builder Hub freshness frontmatter (`freshness_category: stylistic`) and fixes a compliance-header typo ("ASSISTED DRAFT" → "AI-ASSISTED DRAFT"). No functional changes.
+Confirmed working in ChatGPT Desktop in addition to Claude Desktop — attach files directly to the conversation since ChatGPT has no Filesystem connector. Removed the hardcoded "(Claude Desktop)" wording from the skill's own output footer.
 
 ## What's included
 
